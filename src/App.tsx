@@ -93,7 +93,7 @@ function App() {
           <h2>EXPERIENCE</h2>
           <div>
             <h3>Colegio Santader de Ibagué</h3>
-            <span className={styles.date}>Feb, 2023 - Oct, 2023</span>
+            <span className={styles.date}>Feb, 2023 - Current</span>
             <ul>
               <li>Extracurricular Programming Instructor.</li>
             </ul>
